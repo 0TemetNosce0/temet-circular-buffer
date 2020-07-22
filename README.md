@@ -1,7 +1,6 @@
 # temet-circular-buffer
-circular buffer stl
-
-
+[circular buffer stl](https://github.com/jonathonracz/circular_buffer_stl)
+Boost's circular_buffer module converted to use all C++11 STL primitives, making it free of Boost dependencies.
 
 # example
 
